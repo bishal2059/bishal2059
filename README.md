@@ -6,14 +6,12 @@ Hi there, I'm Indra
 
 # 📊 GitHub Stats:
 <p>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2059&layout=compact"/>
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishal2059&theme=radical" alt="rubiin"/>
- 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=bishal2059&show_icons=true&theme=radical" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2059&layout=compact" />
+<br/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishal2059&theme=radical" alt="rubiin"/>
+ </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bishal.sap17) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sap_Bishal) 
