@@ -6,7 +6,7 @@ Hi there, I'm Indra
 
 # 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2059&theme=radical&layout=compact" />
 </p>
 
 <p>
