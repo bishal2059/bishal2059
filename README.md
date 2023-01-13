@@ -6,7 +6,9 @@ Hi there, I'm Indra
 
 # 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bishal2059&repo=github-readme-stats&theme=radical" />
+</a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2059&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
