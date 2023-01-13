@@ -6,11 +6,11 @@ Hi there, I'm Indra
 
 # 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2059" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2059&layout=compact" />
 </p>
 
 <p>
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishal2059&theme=radical" alt="rubiin"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishal2059&theme=radical" alt="rubiin"/>
  
 </p>
 
