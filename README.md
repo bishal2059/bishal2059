@@ -12,7 +12,7 @@ Hi there, I'm Indra
 
 <p>
   
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishal2059&theme=dracula" alt="rubiin"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bishal2059&theme=radical" alt="rubiin"/>
  
 </p>
 
