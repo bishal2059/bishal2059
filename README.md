@@ -14,6 +14,6 @@ Hi there, I'm Indra
  </p>
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sap_Bishal)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/sap_Bishal)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-sapkota-9b84b0169/) 
 
